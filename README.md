@@ -82,3 +82,6 @@ Este projeto é um sistema completo de gerenciamento para uma agência de veícu
    ```bash
     npm run dev
 
+
+![image](https://github.com/user-attachments/assets/e906eb74-f2b0-4644-893d-864f1c4dcfd9)
+
